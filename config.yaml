@@ -1,5 +1,5 @@
-title: My New Hugo Site
-baseURL: https://xyz.netlify.com/
+title: Pejskařův průvodce
+baseURL: https://boring-mccarthy-e2e932.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
