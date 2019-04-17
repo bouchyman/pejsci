@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Pejskařův průvodce</title>
+    <link>https://boring-mccarthy-e2e932.netlify.com/</link>
+    <description>Recent content in Home on Pejskařův průvodce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Tue, 17 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://boring-mccarthy-e2e932.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tvorba Moodboardu pro náš web</title>
+      <link>https://boring-mccarthy-e2e932.netlify.com/post/moodboards/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://boring-mccarthy-e2e932.netlify.com/post/moodboards/</guid>
+      <description> Marek Bouchal https://app.milanote.com/1HgLAZ1VcIEiqf/moodboard Karin Galle
+ Simona Smetánková
+  </description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo!</title>
+      <link>https://boring-mccarthy-e2e932.netlify.com/post/welcome-to-hugo/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://boring-mccarthy-e2e932.netlify.com/post/welcome-to-hugo/</guid>
+      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
+To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://boring-mccarthy-e2e932.netlify.com/error/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://boring-mccarthy-e2e932.netlify.com/error/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O nás</title>
+      <link>https://boring-mccarthy-e2e932.netlify.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://boring-mccarthy-e2e932.netlify.com/about/</guid>
+      <description>#O nás
+Cílem této stránky je snaha zdůraznění nezbytnosti alespoň minimálního studia v rámci výchovy a výcviku psů (spolu s nákupem a výživou zvířete). Jinými slovy: nejdřív čtěte, potom kupujte.
+Jako správný pejskař se nevyhnete kontaktu s ostatními pejskaři a tady bohužel moje osobní zkušenosti narážejí na příliš velkou skupinu lidí, pro které jsou moderní tréninkové metody (které vznikaly již na samotném začátku 20. století) naprostou neznámou a kteří se slepě drží zastaralých, překonaných metod a teorie vlčí dominance je jim při výcviku (doslova) alfou a omegou.</description>
+    </item>
+    
+  </channel>
+</rss>
