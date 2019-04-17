@@ -1,19 +1,7 @@
 ---
-title: All albums of The Beatles
-date: 2018-03-15
+title: Tvorba Moodboardu pro náš web
+date: 2018-04-17
 tags: 
-    - beatles
-    - data
+    - moodboard
+    - vzhled
 ---
-
-This is just another post. And it illustrates a mighty functionality.
-
-<!--more-->
-
-See how to include data inside your posts:
-
-## Beatles Discography
-
-{{< beatles >}}
-
-You can find the data in `data/The_Beatles/discography.yml` and the template used to display it in `layouts/shortcodes/beatles.html`.
