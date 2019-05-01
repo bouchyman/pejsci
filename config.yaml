@@ -2,6 +2,7 @@ title: Pejskařův průvodce
 baseURL: https://boring-mccarthy-e2e932.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: "UA-139409377-1"
 
 menu:
   main:
