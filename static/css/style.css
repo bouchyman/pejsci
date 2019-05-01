@@ -1,12 +1,37 @@
+html {
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+	background-color: #C34F02;
+}
+
+.h1 {
+	font-family: times;
+	font-size: 32px;
+}
+.h2 {
+	font-family: times;
+	font-size: 28px;
+	color: #C34F02;
+}
+
 body {
-	background-color: #262626
+	background-color: #262626;
 	color: white;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	border-width: solid;
+	border-color: white;
 }
 
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
+  font-family: times;
 }
 
 header {
@@ -20,6 +45,7 @@ footer {
 }
 
 .page {
+  font-family: arial;
   float: right;
   width: 70%;
   border-left: solid;
@@ -41,8 +67,14 @@ nav ul {
 
 nav li {
   margin-bottom: 1em;
+  background-color: #C34F02; 
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;	
+  font-size: 20px;
 }
 
 nav .active {
-  font-weight: bold;
+  background-color: #005B06;
 }
