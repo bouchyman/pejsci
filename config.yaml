@@ -8,7 +8,7 @@ menu:
     - name: Homepage
       url: /
       weight: 10
-    - name: Archive
+    - name: Články
       identifier: post
       url: /post/
       weight: 20
