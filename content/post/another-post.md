@@ -72,6 +72,8 @@ Proč psi naklánějí hlavu na stranu? Jedním z důvodů je, že se snaží l�
 Jsou mezi psy praváci/leváci? Ano, psi mají stejně jako lidé jednu stranu těla dominantní. Výzkum potvrdil, že psi leváci mají obecně větší tendence k agresivitě, proto bývají často vyřazeni ze škol pro služební psy, kde tedy zůstává většina psů praváků. Můžete se pokusit toto vypozorovat na svém psovi. Kterou packou s vámi častěji interaguje? 
 
 
+![Obelix](/images/DSC_0012_DxO.jpg)
+
 
 Zdroje
 Elektronické zdroje: 
