@@ -1,6 +1,6 @@
 ---
 title: Nejdřív čtěte, potom kupujte
-date: 2018-04-17
+date: 2018-05-15
 tags: 
     - koupě psa
     - vzdělání
@@ -16,4 +16,6 @@ Takováto prohlášení jsou stále ještě v pořádku, pokud jsou následován
 Při výchově a výcviku psa je neskutečně důležité znát jeho motivaci, nejde napasovat odměnový systém skrz piškoty plošně na všechny psy. (Téma motivace a pamlsků je podrobněji rozepsáno níže.) Je tedy nutné vědět, co náš pes v historii dělal, k čemu byl vyšlechtěn, abychom věděli, jak s ním pracovat. Byl váš pes odjakživa držen jako pes hlídací, případně dále v historii pes válečný? Měl za úkol chránit pána před útokem a jeho statky před krádeží? Byl to pes pastevecký, který trávil celé dny sám na pastvině se stádem a hlídal jej před napadení škodnou zvěří? Byl to pes honácký, který naháněl stádo, držel jej ve formaci, sbíral zaběnuté kusy a po práci trávil zbytek dne se stádem? Nebo to byl pes ovčácký, který vykonával stejnou práci, jako pes honácký, ale držel se poté s pánem? Je váš pes psem loveckým, který se kromě povelů pána musí hojně spoléhat na svoji vlastní hlavu a intelekt? Máte malého psa, který byl používán k lovu v norách a proto musel vždy hlasitě vyštěkat svoji pozici, aby jej člověk pod zemí našel? Byl váš pes palácovým společníkem, nebo tahal saně v psím spřežení? Pokud známe historii a původní uplatnění našeho psa, pochopíme velké množství věcí, které pes dělá a víme, s čím při výcviku počítat.
 Důležitou částí porozumění svému psovi je vědět, zda se řadí mezi psy s vysokým či nízkým množstvím energie (v angličtině high-energy a low-energy), jinak řečeno bavíme se o temperamentu. Pokud klidnější pes nedostane svou denní dávku pohybu, bude možná trochu hravější, ale nic moc se nestane. Pokud temperamentní pes nedostane svou denní dávku pohybu, vytrhá vám podlahu. Většinu temperamentních psů je náročnější unavit, ale také snazší motivovat. Jsou to psi, kteří chtějí pracovat, chtějí ze sebe dostat energii.
 Plošná řešení jsou často nevhodná, najděte tedy ten postup, který vyhovuje plemeni a povaze vašeho psa. Nesnažte se na československého vlka napasovat metody, které fungují na kokršpaněla.
+
+![](/images/obelix_koupe.jpg)
 
