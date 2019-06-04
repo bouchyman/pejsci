@@ -5,7 +5,7 @@ publishDir: public
 googleAnalitycs: "UA-139409377-2"
 menu:
   main:
-    - name: Homepage
+    - name: Domů
       url: /
       weight: 10
     - name: Články
@@ -14,7 +14,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Vše co potřebuje správný pejskař znát.
   addThis: "ra-5cd17a2ddf11b688"
 
