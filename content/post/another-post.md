@@ -5,9 +5,9 @@ date: 2018-05-15
 ---
 
 
-##Nejčastější mýty o psech 
+## Nejčastější mýty o psech 
 
-###1. Výcvik 
+### 1. Výcvik 
 
 **Tvrdohlavý pes je hloupý pes.** Velice mnoho majitelů a bohužel i mnoho cvičitelů zastávají tento zastaralý a navíc naprosto mylný názor. Zde se vracíme znovu k důležitosti nastudování plemena, které si pořizujeme. Byl náš pes šlechtěn k lovu, či k hlídání ovcí? Musel při své práci apriori přemýšlet sám, nebo se spoléhal na povely od pána? Pokud si pořídíme psa, který byl geneticky vytvořen k tomu, aby splnil iniciační povel a pak většinovou část úkolu vyřešil sám, tak se pak nemůžeme divit tomu, že takový pes má vlastní hlavu. To je přesně to, co jsme po něm chtěli, a při výchově a výcviku s tím musíme počítat. Tvrdohlavost není známkou nedostatku inteligence. 
 
@@ -43,7 +43,7 @@ Když vás šéf požádá o přesčas a nabídne vám 90 Kč/hod, nejspíš mu 
 
 **Povely musí být vždycky jednoslovné a jednoduché.** Tohle je trochu podceňování psí inteligence. Když představujeme psovi nový vzorec chování, je pro něj jednodušší učit se krátké povely, to je pravda. Klíčové je: když mu je představujeme. (Důležité je také správné načasování představení povelu, abychom jej spojili přesně s tím chováním, které chceme, ale to je do trochu jiné kapitoly). Nikdo neříká, že je správné zahlcovat štěně složitými souvětími, ale mějte na paměti, že průměrný pes je schopen si zapamatovat a rozumět 165 slovům. Nejchytřejší pes na světě, border kolie Chaser, pes profesora psychologie Jona W. Pillera rozumí rekordním 1000 slovům. Dokáže spojovat podstatné jméno se slovesem a provést povel zadaný celou větou. Jsou zaznamenány i případy border kolií, které dokázaly přinést specifický předmět pouze podle vytištěného obrázku. (Pokud vám zrovna toto nepřijde až tak obdivuhodné, uvědomte si, že schopnost spojit si 2D obrázek s 3D objektem, většinou navíc lišící se velikostí, je pro psy stejně jako pro malé děti velice náročný úkol.) Nemusíte se svým psem do konce života mluvit jen úsečně a jednodušše, nebojte se namáhat jeho mozkové závity a občas mu spojit dva povely za sebe, dát je do věty nebo naučit psa rozeznávat hračky podle jména. Pro štěňátko na začátku chápání konceptu tréninku je vhodný povel „Sedni,“ dospělý pes už dokáže rozluštit i „Sedni si, prosím.“ 
 
-###2. Zdraví 
+### 2. Zdraví 
 
 **Fena musí mít alespoň jednou štěňata.** Nebezpečný mýtus, který vede k přeplněným útulkům. Někoho to možná překvapí, ale psi nemyslí stejně jako lidé. Fena, která nikdy neměla štěňata, nebude mít deprese, nebude cítit prázdnotu. Naopak feny, které odchovají vrh štěňat, mají větší riziko rakoviny mléčné žlázy, zánětu dělohy a větší náchylnost k problémům s močovými cestami. 
 
@@ -62,7 +62,7 @@ Když vás šéf požádá o přesčas a nabídne vám 90 Kč/hod, nejspíš mu 
 **Kříženci jsou zdravější než psi s PP.** Rčení oblíbené u vlastníků psů bez PP. A jak jinak, opak je pravdou. Tento mýtus nejspíše pochází z domněnky, že chovní psi jsou kříženi mezi sebou v úzkém kruhu jedinců a absence nové krve a nové genetické informace a případný incest vede k degeneracím. V nejhorších chovech, které můžete najít, se toto nejspíše děje. Ale stejně jako podle nejnemocnějšího voříška nebudeme soudit všechny křížence, tak podle nejnemocnějších jedinců psů s PP nemůžeme soudit všechny psy s PP. Kvalitní chovatel využívá služeb poradce chovu, vybírá pečlivě chovné psy na základě vzhledu, povahy a zdraví a kříží mezi sebou jen ty psy, kteří prospějí rodové linii plemene. U psů s PP víte přesně, jaká genetická onemocnění si nese jaký pes, často několik generací dozadu. Koupě psa s PP je nejbezpečnější volba, chceme-li si být jistí, že pes bude po zdravotní stránce v co možná nejlepším pořádku. Psi bez PP jsou kříženi neřízeně, málokdy je brána v potaz ať povaha, vzhled nebo zdravotní stav a je to vždy jako sázka v loterii. 
 
 
-###3. Plemenné 
+### 3. Plemenné 
 
 
 **Pitbullové byli vyšlechtěni k zabíjení.** Určitě jste už někde slyšeli, že pitbull má neskutečně silné čelisti, které se takzvaně uzamknou, že „kousne a nepustí“. Zní to sice obdivuhodně a pro některé z nás možná děsivě, ale pravda je jinde. The University of Georgia provedla nezávislé měření síly skusu různých druhů zvířat. Pitbull má skus 235 PSI (pounds per square inch). Pro překonání síly skusu pitbulla nemusíme ani opouštět psí říši. Typický zástupce plemene německý ovčák má sílu skusu 238 PSI. Při pohlédnutí na jiné druhy zjistíme, že hyeny mají železný skus o síle 1000 PSI a nejvýše ze všech zvířat se skusem umisťuje krokodýl s neuvěřitelnými 3700 PSI. Pitbull nemá čelist v žádném smyslu odlišnou od jiných psů, jeho čelist nemá schopnost uzamknout se. Uzamkněme tak tento mýtus do truhly a podpalme ji, zaslouží si zemřít. 
@@ -73,7 +73,7 @@ Když vás šéf požádá o přesčas a nabídne vám 90 Kč/hod, nejspíš mu 
 **Mops je ohavný výstřelek moderní doby.** Stejně jako čivava i mops je vystaven spoustě nesouhlasných pohledů od rádoby znalců a stejně jako čivava je i mops plemenem starším, než spousta z nás pravděpodobně předpokládá. Mops je miniaturní verzí mastifa. Vznikl přibližně 1700 let př. n. l. v Tibetu nebo v Číně. Původně byl společníkem buddhistických lámů, velice toto plemeno proslavil Vilém Oranžský, jehož mopsi zachránili před atentátem. Představa mopse jako pomalého, ustrašeného a ne moc soběstačného psa je naprosto mylná. Mops je soběstačný, bojovný, neobyčejně tvrdý a přizpůsobivý pes. I přes svou silnou a cílevědomou osobnost není mops nijak agresivní. Kvůli poměrně vystouplým očím a krátkému čenichu má mops sklony k problémům s očima a s dýcháním, které ovšem nejsou pravidlem u všech zástupců tohoto svérázného plemene. Mops žije v příjemném soužití s lidskou rasou již od pradávna. Není třeba usuzovat, že pes je výstřelkem moderní doby jen proto, že se vejde do kabelky.   
 
 
-###4. Všeobecné 
+### 4. Všeobecné 
 
 
 **„Vrtí ocasem, takže je šťastný.“** Toto velice záleží na okolnostech. Psi vrtí ocasem při rozrušení, toto rozrušení může být pozitivní i negativní. Je třeba sledovat i další znaky řeči těla. Pes vrtí ocasem, poskakuje kolem, zaujímá pozici pro výzvu ke hře: zde můžeme usoudit, že je pes šťastný/veselý. Pes vrtí ocasem, ostražitě sleduje své okolí, má napjaté svaly, naježený hřbet: tento pes cítí hrozbu a je připraven na ni reagovat. Psi vrtí ocasem i při nervozitě, úzkosti nebo frustraci. 
@@ -99,7 +99,7 @@ Když vás šéf požádá o přesčas a nabídne vám 90 Kč/hod, nejspíš mu 
 **Mít psa naučí dítě zodpovědnost.** Toto je velice nebezpečné tvrzení. Pokud tím myslíte situaci, kdy vy svým příkladem ukazujete dítěti, jak se správně starat o psa, dítě ho s vaší pomocí cvičí a venčí a názorně dítěti vysvětlujete, jak náročná je péče o psa a jak dlouhodobý a drahý je toto závazek, pak ano, v dítěti toto rozhodně podpoří smysl pro zodpovědnost. Velice mylná je ale představa, že dítě může samo vychovávat a cvičit psa a tím se samo učit zodpovědnosti. Vždy musí být hlavou výcviku, výchovy a péče o psa rodič. Na výchově psa se nemůžete učit zodpovědnosti, na výchovu psa tu zodpovědnost musíte mít. Dítě nemá ani smysl pro zodpovědnost, ani pečlivost, důslednost nebo potřebnou trpělivost pro trénink psa. Uvědomte si, že pokud pořizujete psa svému dítěti, pořizujete ho hlavně sobě. 
 
 
-###5. Otázky
+### 5. Otázky
 
 
 **Proč psi žerou exkrementy?** Důvodů je více. Někdy to může být snaha o získání pozornosti, jindy projev samoty. Koprofágie (požírání výkalů) je ve zvířecí říši poměrně běžná. Dejte ovšem pozor, zda váš pes nepožírá výkaly z nedostatku živin. Ujistěte se, že máte pro psa kvalitní krmivo, které obsahuje vše, co pes potřebuje. Pokud pes začne požírat výkaly z ničeho nic, může to být příznak začínající cukrovky. Je vhodné se v takovém případě poradit s veterinářem. 
@@ -114,8 +114,8 @@ Když vás šéf požádá o přesčas a nabídne vám 90 Kč/hod, nejspíš mu 
 ![Obelix](/images/DSC_0012_DxO.jpg)
 
 
-##Zdroje
-###Elektronické zdroje: 
+## Zdroje
+### Elektronické zdroje: 
 
 http://leerburg.com/ 
 http://en.turid-rugaas.no/ 
@@ -145,34 +145,62 @@ https://www.petful.com/behaviors/how-many-words-can-dog-understand/
 https://www.animalwised.com/how-many-words-do-dogs-know-2752.html 
 https://www.hellosandy.cz/magazin/pes-a-ovce-i-jaky-je-rozdil-mezi-ovcackym-a-honackym-psem-12944/ 
 
-###Knihy: 
+### Knihy: 
 
-Turid Rugaas – Konejšivé signály
-Turid Rugaas – Tahání na vodítku – Jak mu předcházet a jak ho psa odnaučit
-Jane Killion – Jak trénovat nemožného psa aneb i prasátka mohou létat
-Sabrina Reichel – Rambo na vodítku – Pozitivní metody výchovy agresivního psa
-Linn Palm – Když jde štěně do světa
-Imke Niewöhner – Psi, kteří štěkají, nekoušou? Pověry a předsudky o psech
-Imke Niewöhner – Výchova štěněte krok za krokem - Prvních osm týdnů
-Simona Smith – Továrna na štěňata, aneb šmejdi v psím světě
-Arwin Kriechbaumer – Malá plemena psů – Jak na to
-MVDr. Michelle Bamberger – Jak poskytnout první pomoc svému psovi
-Kolektiv autorů – Psi – poznáváme a určujeme
-Hans-Jürgen Markmann – Základní výchova štěňat loveckých psů
-Anja Mack – Můj pes má strach
-Anna Laukner – Pes – správné krmení
-Karina Mahnke – Pes – základní výcvik
-Monika Simer – Pes – Clicker trénink
-Gerd Ludwig – Cvičení a hry se psem 
-Esther Verhouf – Chov psů
-Marcel Nijland – Výchova štěněte
-Marianne Kohtz-Walkmezer – Barfování pro psy: zdravé krmení nejlepšího přítele člověka
-František Preisler – Pes ve 21. století 
-Katharina Schlegl-Kofler – Co vám říká pes? 
-Jean Donaldson – To je moje! 
-Sophie Collins – Řeč psího ocásku – tajný jazyk psů – více než 50 způsobů poznat, co vám říká váš pes
-Brigitte Harriesová – Štěňata – chov & péče, porozumění & zabavení
-Renata Popelářová – Domácí zvěrolékař pro majitele a chovatele psů a koček
-Claude Muller – Pes senior – zdraví, chování, péče, strava...odpověď na všechny vaše otázky! 
-Martin Rütter, Andrea Buisman – Jak zvládat lovecké chování psa
-Horst Hegewald-Kawich – Vaše štěně
+**Turid Rugaas** – Konejšivé signály
+
+**Turid Rugaas** – Tahání na vodítku – Jak mu předcházet a jak ho psa odnaučit
+
+**Jane Killion** – Jak trénovat nemožného psa aneb i prasátka mohou létat
+
+**Sabrina Reichel** – Rambo na vodítku – Pozitivní metody výchovy agresivního psa
+
+**Linn Palm** – Když jde štěně do světa
+
+**Imke Niewöhner** – Psi, kteří štěkají, nekoušou? Pověry a předsudky o psech
+
+**Imke Niewöhner** – Výchova štěněte krok za krokem - Prvních osm týdnů
+
+**Simona Smith** – Továrna na štěňata, aneb šmejdi v psím světě
+
+**Arwin Kriechbaumer** – Malá plemena psů – Jak na to
+
+**MVDr. Michelle Bamberger** – Jak poskytnout první pomoc svému psovi
+
+**Kolektiv autorů** – Psi – poznáváme a určujeme
+
+**Hans-Jürgen Markmann** – Základní výchova štěňat loveckých psů
+
+**Anja Mack** – Můj pes má strach
+
+**Anna Laukner** – Pes – správné krmení
+
+**Karina Mahnke** – Pes – základní výcvik
+
+**Monika Simer** – Pes – Clicker trénink
+
+**Gerd Ludwig** – Cvičení a hry se psem 
+
+**Esther Verhouf** – Chov psů
+
+**Marcel Nijland** – Výchova štěněte
+
+**Marianne Kohtz-Walkmezer** – Barfování pro psy: zdravé krmení nejlepšího přítele člověka
+
+**František Preisler** – Pes ve 21. století 
+
+**Katharina Schlegl-Kofler** – Co vám říká pes? 
+
+**Jean Donaldson** – To je moje! 
+
+**Sophie Collins** – Řeč psího ocásku – tajný jazyk psů – více než 50 způsobů poznat, co vám říká váš pes
+
+**Brigitte Harriesová** – Štěňata – chov & péče, porozumění & zabavení
+
+**Renata Popelářová** – Domácí zvěrolékař pro majitele a chovatele psů a koček
+
+**Claude Muller** – Pes senior – zdraví, chování, péče, strava...odpověď na všechny vaše otázky! 
+
+**Martin Rütter, Andrea Buisman** – Jak zvládat lovecké chování psa
+
+**Horst Hegewald-Kawich** – Vaše štěně
