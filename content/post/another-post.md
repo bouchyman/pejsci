@@ -17,11 +17,15 @@ date: 2018-05-15
 **„Já ho pochválím, to stačí.“** Četla jsem v knize Jak trénovat nemožného psa od Jane Killionové velice vhodnou příměru. Představte si váhy. Na jedné misce je všechno, co náš svět dokáže psu nabídnout: hrabání děr, lovení veverek, žraní odpadků, hraní si se psy, prohánění koček, čenichání v parku, běhání po lese, plavání v rybníku a jiné veselé aktivity, které dohromady mají váhu asi jedné tuny. Na druhé misce vah stojíte vy, vážíte tak pět dekagramů. To není mnoho, viďte? Ve výcviku psa se snažíme po malých kouscích vyvážit váhu celého světa a stát na vrcholu jako naprosto nejoblíbenější věc našeho psa. Jak tedy zvrhneme ručičku vah ve svůj prospěch? Zde znovu zvažujeme povahu našeho psa. Máme-li doma například ovčácké plemeno, je pravděpodobné, že budeme v žebříčku jeho motivace výše, než bychom byli třeba u bulteriéra. Ukazujeme pejskovi, že pracovat pro nás se mu vyplatí. Pokud je váš pes naprosto šílený, kdykoli vidí míček, vězte, že nemáte v ruce pouhý míček, ale velice cennou měnu. Když pes štěká na veverku na stromě a vy chcete, aby přestal, možná na něj zavoláte a dáte mu povel „Ke mně!“ V hlavě psa v té chvíli vyvstane otázka: „Proč bych měl jít k tobě, když tohle je taková zábava?“ A vy se v tu chvíli vytasíte s něčím, co ani ta nejtlustší veverka netrumfne: „Protože když splníš, o co tě žádám, dostaneš míček!“ Uvidíte, jak se váhy zhoupnou a vy budete najednou o něco výš. Nespoléhejte na to, že každý pes má rád piškot a že mu stačí poplácat po hlavě. Je velice důležité najít, co vašeho psa motivuje, protože pokud máte to, pak máte nástroj mocnější, než jakýkoliv stahovací obojek nebo smotané noviny.  
 
 **Pamlsek jako pamlsek.** V přímé návaznosti na předchozí mýtus: ne, samozřejmě že ne. Když představujeme psovi nové koncepty, nebo již známé koncepty uvádíme do nového, rušivějšího prostředí, vyplatí se mít chutnější pamlsky, než když děláme pouze „udržovací“ trénink. Je dobré připodobnit si pamlsky k penězům*: 
-|Klasická psí granule|  1,00 Kč|
-|Psí piškot          |  5,00 Kč|
-|Kousek sýra         | 30,00 Kč|
-|Paštika             | 60,00 Kč|
-|Vařené maso         | 100,00 Kč|
+
+|   Pamlsek             |Hodnota|
+| --------------------- |:-----:|
+| Klasická psí granule  | 1 Kč  |
+| Psí piškot            | 5 Kč  |
+| Kousek sýra           | 30 Kč |
+| Paštika               | 60 Kč |
+| Vařené maso           | 100 Kč|
+
 Když vás šéf požádá o přesčas a nabídne vám 90 Kč/hod, nejspíš mu to odmítnete. Nabídne-li vám 120 Kč/hod, asi to zvážíte. Pokud vám ale nabídne 1000 Kč/hod, poprosíte ho o přesčas na přesčas. Vrátíme-li se do světa psího: pokud se psem cvičím cvik, který dobře zná, v podmínkách, kdy je pro něj jednoduchý, je přijatelné použít pamlsek s nízkou hodnotou. Řekněme když přivoláme svého psa povelem „Ke mně!“ na vzdálenost z obýváku do kuchyně, pak odměna nemusí být až tak výjimečná. Pokud stejným povelem zavelím ve chvíli, kdy se můj pes oddává vášnivé hře s ostatními psy a on se úspěšně od hry odtrhne a přiběhne až ke mně, pak je na místě odměna hodnoty celé měsíční mzdy. Pokud zrovna teď nesouhlasně kroutíte hlavou, tak si uvědomte, jak velkou dávku sebekontroly to pro vašeho psa znamenalo. Odměna musí být úměrná úsilí vašeho psa, jinak si příště řekne, že mu to za to nestojí a bude raději dál prohánět své psí kamarády. 
 
 * *Údaje uvedené v tabulce jsou pouze modelové. Udělejte si vlastní pamlskové testování a sestavte podobnou tabulku pro vašeho psa.* 
