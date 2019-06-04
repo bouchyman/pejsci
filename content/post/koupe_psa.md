@@ -1,6 +1,6 @@
 ---
 title: Nejdřív čtěte, potom kupujte
-date: 2018-05-15
+date: 2019-05-15
 tags: 
     - koupě psa
     - vzdělání
